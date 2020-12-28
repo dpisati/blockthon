@@ -1,1 +1,1 @@
-https://dpisati.github.io/blockthon/.
+https://dpisati.github.io/blockthon/
